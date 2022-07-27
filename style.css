@@ -1,0 +1,27 @@
+.text-color1{
+    color: #FA804C;
+}
+.text-color2{
+    color: #363958;
+}
+.button-style{
+    background-image: linear-gradient(to bottom, #3D4FF3, #3543BC);
+}
+
+.web-bg{
+    background: #FFF9F4;
+
+}
+.img-bg{
+    background: #F1F1F1;
+
+}
+.img-height{
+    height: 400px;
+
+}
+.icon-style{
+    width: 100px;
+    height: auto;
+
+}
